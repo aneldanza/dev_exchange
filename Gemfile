@@ -44,3 +44,7 @@ group :development do
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
 end
+
+gem "vite_rails"
+
+gem "sprockets-rails"

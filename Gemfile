@@ -46,3 +46,5 @@ group :development do
 end
 
 gem "vite_rails"
+
+gem "sprockets-rails"
